@@ -23,15 +23,5 @@ public class Singleton {
     {
         System.out.println(tips);
     }
-
-
-public static void main(String args[])
-{
-    Singleton instance1 =Singleton.getInstance();
-    instance1.doThings(String.valueOf("instance1:"+instance1.hashCode()));
-    Singleton instance2 =Singleton.getInstance();
-    instance2.doThings(String.valueOf("instance2:"+instance2.hashCode()));
-
-}
 }
 
