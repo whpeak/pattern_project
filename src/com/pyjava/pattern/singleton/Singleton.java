@@ -7,6 +7,7 @@ package com.pyjava.pattern.singleton;
  *(1) jvm加载的时候,new一份类实例,并且私有化 然后赋值给类变量
  *(2) 构造函授私有
  *(3) 提供公共的访问接口.
+ * 建议使用饿汉式
  * Created by wangheng on 16/6/28.
  */
 public class Singleton {
