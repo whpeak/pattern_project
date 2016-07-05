@@ -1,6 +1,7 @@
 package com.pyjava.pattern.template;
 
 /**
+ *
  * Created by wangheng on 16/7/4.
  */
 public class TestTemplate {
