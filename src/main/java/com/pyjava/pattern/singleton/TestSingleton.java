@@ -1,4 +1,4 @@
-package pattern.singleton;
+package com.pyjava.pattern.singleton;
 
 /**
  * Created by wangheng on 16/6/28.

@@ -1,4 +1,4 @@
-package pattern.prototype;
+package com.pyjava.pattern.prototype;
 
 /**
  *圆形模式

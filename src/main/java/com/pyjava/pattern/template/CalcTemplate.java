@@ -1,4 +1,4 @@
-package pattern.template;
+package com.pyjava.pattern.template;
 
 /**
  * 模版模式

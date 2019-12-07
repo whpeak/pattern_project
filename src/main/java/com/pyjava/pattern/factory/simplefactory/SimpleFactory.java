@@ -1,4 +1,4 @@
-package pattern.factory.simplefactory;
+package com.pyjava.pattern.factory.simplefactory;
 
 /**
  * 简单工厂模式(静态工厂) 工厂模式level1

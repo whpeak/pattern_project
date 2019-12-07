@@ -1,4 +1,4 @@
-package pattern.status;
+package com.pyjava.pattern.status;
 
 /**
  *  再让我做事之前,需要给我上下文

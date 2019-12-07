@@ -1,4 +1,4 @@
-package pattern.decorate;
+package com.pyjava.pattern.decorate;
 
 /**
  *被饰的类,作为装饰类的成员.

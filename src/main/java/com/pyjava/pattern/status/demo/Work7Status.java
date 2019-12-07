@@ -1,4 +1,4 @@
-package pattern.status.demo;
+package com.pyjava.pattern.status.demo;
 
 /**
  * 是我的职责,就去处理,

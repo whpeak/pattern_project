@@ -1,4 +1,4 @@
-package pattern.memo;
+package com.pyjava.pattern.memo;
 
 /**
  * 游戏状态的备忘录(纪录当前的游戏状态)

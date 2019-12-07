@@ -1,4 +1,4 @@
-package pattern.bridge;
+package com.pyjava.pattern.bridge;
 
 /**
  * Created by wangheng on 16/7/19.

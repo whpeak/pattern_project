@@ -1,4 +1,4 @@
-package pattern.factory.factorymethod;
+package com.pyjava.pattern.factory.factorymethod;
 
 /**
  * 工厂方法模式  工厂模式leve2

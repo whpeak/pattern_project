@@ -1,4 +1,4 @@
-package pattern.proxy.interface_proxy;
+package com.pyjava.pattern.proxy.interface_proxy;
 
 import java.lang.reflect.InvocationHandler;
 

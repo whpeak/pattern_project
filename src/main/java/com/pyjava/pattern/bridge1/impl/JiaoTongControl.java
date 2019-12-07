@@ -1,8 +1,8 @@
-package pattern.bridge1.impl;
+package com.pyjava.pattern.bridge1.impl;
 
-import pattern.bridge1.absExcute.Car;
-import pattern.bridge1.absExcute.Road;
-import pattern.bridge1.absExcute.Control;
+import com.pyjava.pattern.bridge1.absExcute.Car;
+import com.pyjava.pattern.bridge1.absExcute.Road;
+import com.pyjava.pattern.bridge1.absExcute.Control;
 
 /**
  * Created by wangheng on 2017/5/3.

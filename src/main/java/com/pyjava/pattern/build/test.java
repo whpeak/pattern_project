@@ -1,4 +1,4 @@
-package pattern.build;
+package com.pyjava.pattern.build;
 
 /**
  * Created by wangheng on 16/7/4.

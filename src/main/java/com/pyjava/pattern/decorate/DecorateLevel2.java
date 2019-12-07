@@ -1,4 +1,4 @@
-package pattern.decorate;
+package com.pyjava.pattern.decorate;
 
 /**
  *装饰类实现和被装饰类的一样的接口

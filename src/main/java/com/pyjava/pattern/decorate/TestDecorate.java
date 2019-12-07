@@ -1,4 +1,4 @@
-package pattern.decorate;
+package com.pyjava.pattern.decorate;
 
 /**
  * Created by wangheng on 16/6/30.

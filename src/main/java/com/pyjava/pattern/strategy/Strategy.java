@@ -1,4 +1,4 @@
-package pattern.strategy;
+package com.pyjava.pattern.strategy;
 
 /**
  *[what]

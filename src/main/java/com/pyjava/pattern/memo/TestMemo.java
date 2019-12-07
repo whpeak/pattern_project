@@ -1,4 +1,4 @@
-package pattern.memo;
+package com.pyjava.pattern.memo;
 
 /**
  * Created by wangheng on 16/7/18.

@@ -1,4 +1,4 @@
-package pattern.command;
+package com.pyjava.pattern.command;
 
 /**
  * what

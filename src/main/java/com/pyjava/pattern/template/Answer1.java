@@ -1,4 +1,4 @@
-package pattern.template;
+package com.pyjava.pattern.template;
 
 /**
  * Created by wangheng on 16/7/4.

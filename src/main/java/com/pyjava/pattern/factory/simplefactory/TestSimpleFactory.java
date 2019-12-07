@@ -1,4 +1,4 @@
-package pattern.factory.simplefactory;
+package com.pyjava.pattern.factory.simplefactory;
 
 /**
  * Created by wangheng on 16/7/1.

@@ -1,4 +1,4 @@
-package pattern.factory.abstractfactory;
+package com.pyjava.pattern.factory.abstractfactory;
 
 import java.util.HashMap;
 import java.util.Map;

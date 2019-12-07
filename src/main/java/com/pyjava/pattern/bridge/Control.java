@@ -1,4 +1,4 @@
-package pattern.bridge;
+package com.pyjava.pattern.bridge;
 
 /**
  * 将抽象部分与实现部分分离，使它们都可以独立的变化

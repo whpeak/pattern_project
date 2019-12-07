@@ -1,4 +1,4 @@
-package pattern.prototype;
+package com.pyjava.pattern.prototype;
 
 import java.util.Arrays;
 

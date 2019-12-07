@@ -1,4 +1,4 @@
-package pattern.bridge1.absExcute;
+package com.pyjava.pattern.bridge1.absExcute;
 
 /**
  * Created by wangheng on 2017/5/3.

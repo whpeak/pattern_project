@@ -1,4 +1,4 @@
-package pattern.memo;
+package com.pyjava.pattern.memo;
 
 /**
  * what:

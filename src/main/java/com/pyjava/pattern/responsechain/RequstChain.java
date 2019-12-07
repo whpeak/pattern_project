@@ -1,4 +1,4 @@
-package pattern.responsechain;
+package com.pyjava.pattern.responsechain;
 
 /**
  * Created by wangheng on 16/7/19.

@@ -1,4 +1,4 @@
-package pattern.bridge;
+package com.pyjava.pattern.bridge;
 
 /**
  * 桥接模式运行入口

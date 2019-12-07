@@ -1,4 +1,4 @@
-package pattern.strategy;
+package com.pyjava.pattern.strategy;
 
 /**
  * Created by wangheng on 16/7/1.

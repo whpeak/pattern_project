@@ -1,4 +1,4 @@
-package pattern.responsechain;
+package com.pyjava.pattern.responsechain;
 
 /**
  * a,b,c,d依次为四个职责

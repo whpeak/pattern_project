@@ -1,4 +1,4 @@
-package pattern.status;
+package com.pyjava.pattern.status;
 
 /**
  * 这个上下文,共对外访问,内在的状态转换,是由各个状态实现类去内部调用(statusA去调用statusB)

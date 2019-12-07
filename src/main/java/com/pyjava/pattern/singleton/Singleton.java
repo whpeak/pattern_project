@@ -1,4 +1,4 @@
-package pattern.singleton;
+package com.pyjava.pattern.singleton;
 
 /**
  * 模式名称:单例模式(饿汉式)

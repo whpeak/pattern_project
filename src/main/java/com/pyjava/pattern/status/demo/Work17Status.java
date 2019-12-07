@@ -1,4 +1,4 @@
-package pattern.status.demo;
+package com.pyjava.pattern.status.demo;
 
 /**
  * Created by wangheng on 16/7/13.

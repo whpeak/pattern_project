@@ -1,4 +1,4 @@
-package pattern.command;
+package com.pyjava.pattern.command;
 
 import java.util.ArrayList;
 import java.util.List;

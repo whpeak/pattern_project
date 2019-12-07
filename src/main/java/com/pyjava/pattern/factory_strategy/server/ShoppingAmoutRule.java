@@ -1,4 +1,4 @@
-package pattern.factory_strategy.server;
+package com.pyjava.pattern.factory_strategy.server;
 
 /**
  * 购物总价算法

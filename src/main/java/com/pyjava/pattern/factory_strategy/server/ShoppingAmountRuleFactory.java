@@ -1,4 +1,4 @@
-package pattern.factory_strategy.server;
+package com.pyjava.pattern.factory_strategy.server;
 
 import java.util.HashMap;
 import java.util.Map;

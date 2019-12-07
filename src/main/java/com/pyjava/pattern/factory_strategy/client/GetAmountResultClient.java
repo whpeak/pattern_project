@@ -1,6 +1,6 @@
-package pattern.factory_strategy.client;
+package com.pyjava.pattern.factory_strategy.client;
 
-import pattern.factory_strategy.server.AmoutCalc;
+import com.pyjava.pattern.factory_strategy.server.AmoutCalc;
 
 /**
  * Created by wangheng on 16/7/1.

@@ -1,7 +1,7 @@
-package pattern.proxy.interface_proxy.invocationHandler;
+package com.pyjava.pattern.proxy.interface_proxy.invocationHandler;
 
-import pattern.proxy.interface_proxy.BaseCalc;
-import pattern.proxy.interface_proxy.CalcInterface;
+import com.pyjava.pattern.proxy.interface_proxy.BaseCalc;
+import com.pyjava.pattern.proxy.interface_proxy.CalcInterface;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
