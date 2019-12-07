@@ -1,4 +1,4 @@
-package com.pyjava.pattern.adapter.classadapter;
+package com.pyjava.pattern.adapter.objectadapter;
 
 /**
  * @ClassName Client
@@ -7,7 +7,7 @@ package com.pyjava.pattern.adapter.classadapter;
  * @Date 2019/12/7 19:59
  * @Version 1.0
  **/
-public class Client {
+public class ObjectClient {
 
     public static void main(String[] args) {
 
